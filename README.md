@@ -159,17 +159,6 @@ Historical Data → Statistical Analysis → ARIMA Forecast → Rule-Based Adjus
 }
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
+Yashaswi Alur Prasannakumar
 
-**Yashaswi Alur Prasannakumar**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-⭐ If you find this project useful, please consider giving it a star!
